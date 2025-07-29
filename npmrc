@@ -1,0 +1,4 @@
+//registry.npmjs.org/:_authToken=${NPM_TOKEN}
+// myUser:registry=https://registry.npmjs.org/
+// registry-url: https://registry.npmjs.org/
+// always-auth=true

@@ -1,0 +1,25 @@
+// Design Tokens - Main Index
+// Automatically generated from Figma tokens
+
+// Base files
+@import 'base/variables';
+@import 'base/light';
+@import 'base/dark';
+
+// Component files
+@import 'components/aura-primitive';
+@import 'components/aura-semantic';
+@import 'components/aura-semantic-light';
+@import 'components/aura-semantic-dark';
+@import 'components/aura-component';
+@import 'components/aura-component-light';
+@import 'components/aura-component-dark';
+@import 'components/app';
+
+// Theme Usage:
+// Add class="dark" to your <html> or <body> element for dark theme
+// Light theme is the default (applies to :root)
+// Example: <body class="dark">
+// 
+// For Tailwind CSS compatibility:
+// This works seamlessly with Tailwind's dark mode class strategy
